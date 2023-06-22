@@ -7,7 +7,7 @@
   <div class="container">
     <div class="page-header_wrap">
       <div class="page-heading">
-        <h1>Contact Us</h1>
+        <h1>Contact</h1>
       </div>
       <ul class="coustom-breadcrumb">
         <li><a href="home">Home</a></li>
