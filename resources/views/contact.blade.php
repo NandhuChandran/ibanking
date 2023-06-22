@@ -52,7 +52,7 @@
         </div>
       </div>
       <div class="col-md-6">
-        <h3>Contact Info</h3>
+        <h3>Contact Information</h3>
         <div class="contact_detail">
 
           <ul>
