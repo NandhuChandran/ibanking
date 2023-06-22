@@ -93,7 +93,7 @@
                             <li><i class="fa fa-facebook"></i></li>
                         </a>
                         <a href="#">
-                            <li><i class="fa fa-twitter"></i></li>
+                            <li><i class="fa fa-instagram"></i></li>
                         </a>
                         <a href="#">
                             <li><i class="fa fa-linkedin"></i></li>
